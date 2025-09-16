@@ -1,3 +1,5 @@
+package com.esolano.list;
+
 public enum EnmTurno {
 
     T1("6:00 - 7:30"),
